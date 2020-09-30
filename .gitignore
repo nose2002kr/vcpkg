@@ -11,6 +11,7 @@
 *.userosscache
 *.sln.docstates
 
+toolsrc/build/
 toolsrc/out*
 toolsrc/CMakeSettings.json
 # fuzzing
